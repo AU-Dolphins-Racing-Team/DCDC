@@ -1,10 +1,9 @@
-# *Insert repository name*
+# High Voltage DCDC Converter
 *Template repository to be used for electrical department projects. Write a short description of the repository - what is it for*
 ## Description and Purpose
 *short description of part and its intended purpose or the purpose of the repository*
 
 #### Applicable Car/Year
-*Delete section if not applicable*
 
 Developed for __Winter__: 2026/2027 Season
 
